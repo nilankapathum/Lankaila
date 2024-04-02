@@ -3574,7 +3574,7 @@ blockquote {
   position: fixed;
 }
 .nav__main-btn:hover {
-  opacity: 0.8;
+  opacity: 1;
 }
 .logo__cols {
   opacity: 0.5;
@@ -8592,9 +8592,7 @@ blockquote {
   display: flex;
   position: relative;
 }
-.room__box--is-rel.is--last {
-  margin-bottom: 100vh;
-}
+
 .events__home-wrap {
   flex-direction: column;
   justify-content: center;
@@ -9410,7 +9408,7 @@ blockquote {
 .menu-fill {
   z-index: 1;
   background-color: var(--black-3);
-  opacity: 0;
+  opacity: 1;
   border-radius: 50em;
   transition: background-color 0.3s;
   position: absolute;

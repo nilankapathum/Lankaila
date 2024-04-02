@@ -56678,74 +56678,74 @@ Webflow.require("ix2").init({
       actionItemGroups: [
         {
           actionItems: [
-            {
-              id: "a-214-n-6",
-              actionTypeId: "STYLE_OPACITY",
-              config: {
-                delay: 0,
-                easing: "easeOut",
-                duration: 300,
-                target: {
-                  selector: ".menu-fill",
-                  selectorGuids: ["40ed8f59-39c0-e932-3d53-02d8d312ce02"],
-                },
-                value: 0,
-                unit: "",
-              },
-            },
+            // {
+            //   id: "a-214-n-6",
+            //   actionTypeId: "STYLE_OPACITY",
+            //   config: {
+            //     delay: 0,
+            //     easing: "easeOut",
+            //     duration: 300,
+            //     target: {
+            //       selector: ".menu-fill",
+            //       selectorGuids: ["40ed8f59-39c0-e932-3d53-02d8d312ce02"],
+            //     },
+            //     value: 0,
+            //     unit: "",
+            //   },
+            // },
           ],
         },
         {
           actionItems: [
-            {
-              id: "a-214-n-3",
-              actionTypeId: "TRANSFORM_MOVE",
-              config: {
-                delay: 0,
-                easing: "inOutCirc",
-                duration: 1000,
-                target: {
-                  selector: ".nav__menu",
-                  selectorGuids: ["70d26b64-f822-5c64-e969-c896e64c0e03"],
-                },
-                yValue: 0,
-                xUnit: "PX",
-                yUnit: "%",
-                zUnit: "PX",
-              },
-            },
-            {
-              id: "a-214-n-5",
-              actionTypeId: "STYLE_OPACITY",
-              config: {
-                delay: 0,
-                easing: "easeOut",
-                duration: 300,
-                target: {
-                  selector: ".menu-fill",
-                  selectorGuids: ["40ed8f59-39c0-e932-3d53-02d8d312ce02"],
-                },
-                value: 1,
-                unit: "",
-              },
-            },
-            {
-              id: "a-214-n-4",
-              actionTypeId: "TRANSFORM_MOVE",
-              config: {
-                delay: 0,
-                easing: "inOutCirc",
-                duration: 1000,
-                target: {
-                  selector: ".nav__main-btn",
-                  selectorGuids: ["b3a2df3b-8295-c090-6e49-8325f2aba35f"],
-                },
-                yValue: 0,
-                xUnit: "PX",
-                yUnit: "%",
-                zUnit: "PX",
-              },
-            },
+            // {
+            //   id: "a-214-n-3",
+            //   actionTypeId: "TRANSFORM_MOVE",
+            //   config: {
+            //     delay: 0,
+            //     easing: "inOutCirc",
+            //     duration: 1000,
+            //     target: {
+            //       selector: ".nav__menu",
+            //       selectorGuids: ["70d26b64-f822-5c64-e969-c896e64c0e03"],
+            //     },
+            //     yValue: 0,
+            //     xUnit: "PX",
+            //     yUnit: "%",
+            //     zUnit: "PX",
+            //   },
+            // },
+            // {
+            //   id: "a-214-n-5",
+            //   actionTypeId: "STYLE_OPACITY",
+            //   config: {
+            //     delay: 0,
+            //     easing: "easeOut",
+            //     duration: 300,
+            //     target: {
+            //       selector: ".menu-fill",
+            //       selectorGuids: ["40ed8f59-39c0-e932-3d53-02d8d312ce02"],
+            //     },
+            //     value: 1,
+            //     unit: "",
+            //   },
+            // },
+            // {
+            //   id: "a-214-n-4",
+            //   actionTypeId: "TRANSFORM_MOVE",
+            //   config: {
+            //     delay: 0,
+            //     easing: "inOutCirc",
+            //     duration: 1000,
+            //     target: {
+            //       selector: ".nav__main-btn",
+            //       selectorGuids: ["b3a2df3b-8295-c090-6e49-8325f2aba35f"],
+            //     },
+            //     yValue: 0,
+            //     xUnit: "PX",
+            //     yUnit: "%",
+            //     zUnit: "PX",
+            //   },
+            // },
           ],
         },
       ],
@@ -56758,78 +56758,78 @@ Webflow.require("ix2").init({
       actionItemGroups: [
         {
           actionItems: [
-            {
-              id: "a-213-n-3",
-              actionTypeId: "TRANSFORM_MOVE",
-              config: {
-                delay: 0,
-                easing: "easeOut",
-                duration: 500,
-                target: {
-                  selector: ".nav__menu",
-                  selectorGuids: ["70d26b64-f822-5c64-e969-c896e64c0e03"],
-                },
-                yValue: 0,
-                xUnit: "PX",
-                yUnit: "%",
-                zUnit: "PX",
-              },
-            },
-            {
-              id: "a-213-n-4",
-              actionTypeId: "TRANSFORM_MOVE",
-              config: {
-                delay: 0,
-                easing: "easeOut",
-                duration: 500,
-                target: {
-                  selector: ".nav__main-btn",
-                  selectorGuids: ["b3a2df3b-8295-c090-6e49-8325f2aba35f"],
-                },
-                yValue: 0,
-                xUnit: "PX",
-                yUnit: "%",
-                zUnit: "PX",
-              },
-            },
+            // {
+            //   id: "a-213-n-3",
+            //   actionTypeId: "TRANSFORM_MOVE",
+            //   config: {
+            //     delay: 0,
+            //     easing: "easeOut",
+            //     duration: 500,
+            //     target: {
+            //       selector: ".nav__menu",
+            //       selectorGuids: ["70d26b64-f822-5c64-e969-c896e64c0e03"],
+            //     },
+            //     yValue: 0,
+            //     xUnit: "PX",
+            //     yUnit: "%",
+            //     zUnit: "PX",
+            //   },
+            // },
+            // {
+            //   id: "a-213-n-4",
+            //   actionTypeId: "TRANSFORM_MOVE",
+            //   config: {
+            //     delay: 0,
+            //     easing: "easeOut",
+            //     duration: 500,
+            //     target: {
+            //       selector: ".nav__main-btn",
+            //       selectorGuids: ["b3a2df3b-8295-c090-6e49-8325f2aba35f"],
+            //     },
+            //     yValue: 0,
+            //     xUnit: "PX",
+            //     yUnit: "%",
+            //     zUnit: "PX",
+            //   },
+            // },
           ],
         },
         {
           actionItems: [
-            {
-              id: "a-213-n",
-              actionTypeId: "TRANSFORM_MOVE",
-              config: {
-                delay: 0,
-                easing: "inOutCirc",
-                duration: 1000,
-                target: {
-                  selector: ".nav__menu",
-                  selectorGuids: ["70d26b64-f822-5c64-e969-c896e64c0e03"],
-                },
-                yValue: -200,
-                xUnit: "PX",
-                yUnit: "%",
-                zUnit: "PX",
-              },
-            },
-            {
-              id: "a-213-n-2",
-              actionTypeId: "TRANSFORM_MOVE",
-              config: {
-                delay: 0,
-                easing: "inOutCirc",
-                duration: 1000,
-                target: {
-                  selector: ".nav__main-btn",
-                  selectorGuids: ["b3a2df3b-8295-c090-6e49-8325f2aba35f"],
-                },
-                yValue: -200,
-                xUnit: "PX",
-                yUnit: "%",
-                zUnit: "PX",
-              },
-            },
+            // {
+            //   id: "a-213-n",
+            //   actionTypeId: "TRANSFORM_MOVE",
+            //   config: {
+            //     delay: 0,
+            //     easing: "inOutCirc",
+            //     duration: 1000,
+            //     target: {
+            //       selector: ".nav__menu",
+            //       selectorGuids: ["70d26b64-f822-5c64-e969-c896e64c0e03"],
+            //     },
+            //     yValue: -200,
+            //     xUnit: "PX",
+            //     yUnit: "%",
+            //     zUnit: "PX",
+            //   },
+            // },
+            // {
+            //   id: "a-213-n-2",
+            //   actionTypeId: "TRANSFORM_MOVE",
+            //   config: {
+            //     delay: 0,
+            //     easing: "inOutCirc",
+            //     duration: 1000,
+            //     target: {
+            //       selector: ".nav__main-btn",
+            //       selectorGuids: ["b3a2df3b-8295-c090-6e49-8325f2aba35f"],
+            //     },
+            //     yValue: -200,
+            //     xUnit: "PX",
+            //     yUnit: "%",
+            //     zUnit: "PX",
+            //   },
+            // },
           ],
         },
       ],
