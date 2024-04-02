@@ -24771,26 +24771,26 @@ __p+='`),
             !!r.webkitFullscreenElement;
           e(f).attr("style", d ? "display: none !important;" : "");
         }
-        function h() {
-          var d = e('<a class="w-webflow-badge"></a>').attr(
-              "href",
-              "https://webflow.com?utm_campaign=brandjs"
-            ),
-            p = e("<img>")
-              .attr(
-                "src",
-                "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg"
-              )
-              .attr("alt", "")
-              .css({ marginRight: "4px", width: "26px" }),
-            m = e("<img>")
-              .attr(
-                "src",
-                "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg"
-              )
-              .attr("alt", "Made in Webflow");
-          return d.append(p, m), d[0];
-        }
+        // function h() {
+        //   var d = e('<a class="w-webflow-badge"></a>').attr(
+        //       "href",
+        //       "https://webflow.com?utm_campaign=brandjs"
+        //     ),
+        //     p = e("<img>")
+        //       .attr(
+        //         "src",
+        //         "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg"
+        //       )
+        //       .attr("alt", "")
+        //       .css({ marginRight: "4px", width: "26px" }),
+        //     m = e("<img>")
+        //       .attr(
+        //         "src",
+        //         "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg"
+        //       )
+        //       .attr("alt", "Made in Webflow");
+        //   return d.append(p, m), d[0];
+        // }
         function g() {
           var d = i.children(a),
             p = d.length && d.get(0) === f,
@@ -24884,23 +24884,23 @@ __p+='`),
         function v(x) {
           return x.replace(/([^:])\/\//g, "$1/");
         }
-        function y(x) {
-          var S = window.document.createElement("iframe");
-          (S.src = "https://webflow.com/site/third-party-cookie-check.html"),
-            (S.style.display = "none"),
-            (S.sandbox = "allow-scripts allow-same-origin");
-          var I = function (T) {
-            T.data === "WF_third_party_cookies_unsupported"
-              ? (b(S, I), x(!1))
-              : T.data === "WF_third_party_cookies_supported" &&
-                (b(S, I), x(!0));
-          };
-          (S.onerror = function () {
-            b(S, I), x(!1);
-          }),
-            window.addEventListener("message", I, !1),
-            window.document.body.appendChild(S);
-        }
+        // function y(x) {
+        //   var S = window.document.createElement("iframe");
+        //   (S.src = "https://webflow.com/site/third-party-cookie-check.html"),
+        //     (S.style.display = "none"),
+        //     (S.sandbox = "allow-scripts allow-same-origin");
+        //   var I = function (T) {
+        //     T.data === "WF_third_party_cookies_unsupported"
+        //       ? (b(S, I), x(!1))
+        //       : T.data === "WF_third_party_cookies_supported" &&
+        //         (b(S, I), x(!0));
+        //   };
+        //   (S.onerror = function () {
+        //     b(S, I), x(!1);
+        //   }),
+        //     window.addEventListener("message", I, !1),
+        //     window.document.body.appendChild(S);
+        // }
         function b(x, S) {
           window.removeEventListener("message", S, !1), x.remove();
         }
@@ -48946,7 +48946,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCirc",
                 duration: 3000,
                 target: {
-                  selector: ".kaskady__img--out",
+                  selector: ".lankaila__img--out",
                   selectorGuids: ["bca18395-41f4-04f3-cf0a-c57de5b85761"],
                 },
                 widthValue: 100,
@@ -48963,7 +48963,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCirc",
                 duration: 3000,
                 target: {
-                  selector: ".kaskady__img--out2",
+                  selector: ".lankaila__img--out2",
                   selectorGuids: ["a662e07c-94d7-913c-f37c-e4d836d74e5c"],
                 },
                 widthValue: 100,
@@ -48980,7 +48980,7 @@ Webflow.require("ix2").init({
                 easing: "",
                 duration: 500,
                 target: {
-                  selector: ".kaskady-img--last",
+                  selector: ".lankaila-img--last",
                   selectorGuids: ["5b99e5ff-0d11-4f4f-74d4-aebfc044d596"],
                 },
                 xValue: 1.3,
@@ -48996,7 +48996,7 @@ Webflow.require("ix2").init({
                 easing: "",
                 duration: 500,
                 target: {
-                  selector: ".kaskady-img.bg-anim2",
+                  selector: ".lankaila-img.bg-anim2",
                   selectorGuids: [
                     "10635847-aba2-b01c-97ad-48508207a91b",
                     "ff271511-b69e-99da-d79d-3d3a23cf1a29",
@@ -49019,7 +49019,7 @@ Webflow.require("ix2").init({
                 easing: "",
                 duration: 0,
                 target: {
-                  selector: ".kaskady-img.bg-anim2",
+                  selector: ".lankaila-img.bg-anim2",
                   selectorGuids: [
                     "10635847-aba2-b01c-97ad-48508207a91b",
                     "ff271511-b69e-99da-d79d-3d3a23cf1a29",
@@ -49039,7 +49039,7 @@ Webflow.require("ix2").init({
                 easing: "",
                 duration: 0,
                 target: {
-                  selector: ".kaskady-img.bg-anim2",
+                  selector: ".lankaila-img.bg-anim2",
                   selectorGuids: [
                     "10635847-aba2-b01c-97ad-48508207a91b",
                     "ff271511-b69e-99da-d79d-3d3a23cf1a29",
@@ -49058,7 +49058,7 @@ Webflow.require("ix2").init({
                 easing: "",
                 duration: 0,
                 target: {
-                  selector: ".kaskady-img--last",
+                  selector: ".lankaila-img--last",
                   selectorGuids: ["5b99e5ff-0d11-4f4f-74d4-aebfc044d596"],
                 },
                 xValue: 1.3,
@@ -49074,7 +49074,7 @@ Webflow.require("ix2").init({
                 easing: "",
                 duration: 0,
                 target: {
-                  selector: ".kaskady-img--last",
+                  selector: ".lankaila-img--last",
                   selectorGuids: ["5b99e5ff-0d11-4f4f-74d4-aebfc044d596"],
                 },
                 xValue: 20,
@@ -49095,7 +49095,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCubic",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady-img.bg-anim1",
+                  selector: ".lankaila-img.bg-anim1",
                   selectorGuids: [
                     "10635847-aba2-b01c-97ad-48508207a91b",
                     "eb8cb845-c894-5c9c-77ff-9c961a282353",
@@ -49115,7 +49115,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCirc",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady__img--out",
+                  selector: ".lankaila__img--out",
                   selectorGuids: ["bca18395-41f4-04f3-cf0a-c57de5b85761"],
                 },
                 widthValue: 0,
@@ -49132,7 +49132,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCubic",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady-img.bg-anim2",
+                  selector: ".lankaila-img.bg-anim2",
                   selectorGuids: [
                     "10635847-aba2-b01c-97ad-48508207a91b",
                     "ff271511-b69e-99da-d79d-3d3a23cf1a29",
@@ -49151,7 +49151,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCubic",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady-img.bg-anim2",
+                  selector: ".lankaila-img.bg-anim2",
                   selectorGuids: [
                     "10635847-aba2-b01c-97ad-48508207a91b",
                     "ff271511-b69e-99da-d79d-3d3a23cf1a29",
@@ -49175,7 +49175,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCirc",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady__img--out2",
+                  selector: ".lankaila__img--out2",
                   selectorGuids: ["a662e07c-94d7-913c-f37c-e4d836d74e5c"],
                 },
                 widthValue: 0,
@@ -49192,7 +49192,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCubic",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady-img.bg-anim2",
+                  selector: ".lankaila-img.bg-anim2",
                   selectorGuids: [
                     "10635847-aba2-b01c-97ad-48508207a91b",
                     "ff271511-b69e-99da-d79d-3d3a23cf1a29",
@@ -49212,7 +49212,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCubic",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady-img--last",
+                  selector: ".lankaila-img--last",
                   selectorGuids: ["5b99e5ff-0d11-4f4f-74d4-aebfc044d596"],
                 },
                 xValue: 0,
@@ -49229,7 +49229,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCubic",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady-img--last",
+                  selector: ".lankaila-img--last",
                   selectorGuids: ["5b99e5ff-0d11-4f4f-74d4-aebfc044d596"],
                 },
                 xValue: 1,
@@ -49249,7 +49249,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCirc",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady__img--out",
+                  selector: ".lankaila__img--out",
                   selectorGuids: ["bca18395-41f4-04f3-cf0a-c57de5b85761"],
                 },
                 widthValue: 100,
@@ -49266,7 +49266,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCirc",
                 duration: 1500,
                 target: {
-                  selector: ".kaskady__img--out2",
+                  selector: ".lankaila__img--out2",
                   selectorGuids: ["a662e07c-94d7-913c-f37c-e4d836d74e5c"],
                 },
                 widthValue: 100,
@@ -49283,7 +49283,7 @@ Webflow.require("ix2").init({
                 easing: "",
                 duration: 0,
                 target: {
-                  selector: ".kaskady-img",
+                  selector: ".lankaila-img",
                   selectorGuids: ["10635847-aba2-b01c-97ad-48508207a91b"],
                 },
                 xValue: 0,
@@ -55284,7 +55284,7 @@ Webflow.require("ix2").init({
                   selector: ".loading",
                   selectorGuids: ["374df2a8-8beb-e3c4-bfb3-cb74841c6943"],
                 },
-                value: "flex",
+                value: "none",
               },
             },
             {
@@ -55372,7 +55372,7 @@ Webflow.require("ix2").init({
                 easing: "",
                 duration: 500,
                 target: {
-                  selector: ".kaskady-date--load",
+                  selector: ".lankaila-date--load",
                   selectorGuids: ["1676752e-dc38-73b6-bafb-8879e828816a"],
                 },
                 yValue: 101,
@@ -55428,7 +55428,7 @@ Webflow.require("ix2").init({
                   selector: ".loading",
                   selectorGuids: ["374df2a8-8beb-e3c4-bfb3-cb74841c6943"],
                 },
-                value: "flex",
+                value: "none",
               },
             },
           ],
@@ -55507,7 +55507,7 @@ Webflow.require("ix2").init({
                 easing: "easeOut",
                 duration: 500,
                 target: {
-                  selector: ".kaskady-date--load",
+                  selector: ".lankaila-date--load",
                   selectorGuids: ["1676752e-dc38-73b6-bafb-8879e828816a"],
                 },
                 yValue: 0,
@@ -55545,7 +55545,7 @@ Webflow.require("ix2").init({
                 easing: "inOutCirc",
                 duration: 1000,
                 target: {
-                  selector: ".kaskady-date--load",
+                  selector: ".lankaila-date--load",
                   selectorGuids: ["1676752e-dc38-73b6-bafb-8879e828816a"],
                 },
                 yValue: -15,

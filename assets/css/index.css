@@ -3404,23 +3404,23 @@ blockquote {
 .h-toptitle2.in--home {
   font-weight: 100;
 }
-.kaskady__bgs {
+.lankaila__bgs {
   z-index: 1;
   width: 100vw;
   height: 100%;
   position: relative;
 }
-.kaskady__bgs--inner {
+.lankaila__bgs--inner {
   width: 100vw;
   height: 100%;
   overflow: hidden;
 }
-.kaskady__container {
+.lankaila__container {
   width: 100%;
   height: 100%;
   position: relative;
 }
-.kaskady__img--out {
+.lankaila__img--out {
   z-index: 3;
   width: 100vw;
   height: 100%;
@@ -3431,7 +3431,7 @@ blockquote {
   right: 0%;
   overflow: hidden;
 }
-.kaskady__img--out2 {
+.lankaila__img--out2 {
   z-index: 2;
   width: 100vw;
   height: 100%;
@@ -3442,7 +3442,7 @@ blockquote {
   right: 0%;
   overflow: hidden;
 }
-.kaskady-img {
+.lankaila-img {
   object-fit: cover;
   width: 100vw;
   max-width: 100vw;
@@ -3453,10 +3453,10 @@ blockquote {
   left: 0%;
   right: 0%;
 }
-.kaskady-img.bg-anim2.is--contact2 {
+.lankaila-img.bg-anim2.is--contact2 {
   object-position: 50% 0%;
 }
-.kaskady__img--out3 {
+.lankaila__img--out3 {
   z-index: 1;
   width: 100vw;
   height: 100%;
@@ -3467,7 +3467,7 @@ blockquote {
   right: 0%;
   overflow: hidden;
 }
-.kaskady-img--last {
+.lankaila-img--last {
   object-fit: cover;
   width: 100vw;
   max-width: 100vw;
@@ -3478,7 +3478,7 @@ blockquote {
   left: 0%;
   right: 0%;
 }
-.kaskady__slider {
+.lankaila__slider {
   z-index: 1;
   width: 100%;
   height: 100%;
@@ -3489,14 +3489,14 @@ blockquote {
   right: 0%;
   overflow: hidden;
 }
-.kaskady__slider.is--flex,
-.kaskady__slider.in--rooms {
+.lankaila__slider.is--flex,
+.lankaila__slider.in--rooms {
   flex-direction: column;
   justify-content: center;
   align-items: center;
   display: flex;
 }
-.kaskady__bg-overlay {
+.lankaila__bg-overlay {
   z-index: 2;
   background-color: rgba(66, 59, 16, 0.6);
   position: absolute;
@@ -3591,7 +3591,7 @@ blockquote {
   justify-content: flex-start;
 }
 .logo__star {
-  background-image: url();
+  background-image: url(https://assets-global.website-files.com/60b0c490c031f80841d793e5/60b0c490c031f89533d7976a_star_outline_white_24dp.svg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3606,7 +3606,7 @@ blockquote {
   margin-right: 2.5em;
   position: relative;
 }
-.kaskady-date {
+.lankaila-date {
   color: var(--white);
   letter-spacing: 1em;
   cursor: default;
@@ -3944,7 +3944,7 @@ blockquote {
   margin-bottom: 0;
   display: flex;
 }
-.slider__100vh {#b19494
+.slider__100vh {
   width: 100%;
   height: 100vh;
   position: -webkit-sticky;
@@ -3953,7 +3953,7 @@ blockquote {
 }
 .slider__200vh {
   z-index: 1;
-  background-color: ;
+  background-color: #b19494;
   width: 100%;
   height: 200vh;
   position: absolute;
@@ -5858,7 +5858,7 @@ blockquote {
   left: 0%;
   right: 0%;
 }
-.kaskady__bg2 {
+.lankaila__bg2 {
   object-fit: cover;
   width: 100%;
   height: 100%;
@@ -6134,13 +6134,13 @@ blockquote {
   background-image: url(https://assets-global.website-files.com/60b0c490c031f80841d793e5/60b0c490c031f852dcd79891_2-izbova-suita-prestige-4.jpg);
 }
 .reservation__bg.is--2 {
-  background-image: url(https://assets-global.website-files.com/60b0c490c031f80841d793e5/60b0c490c031f87ad9d795a6_hotel-kaskady-wellness-spa-bg__1920px-38.jpg);
+  background-image: url(https://assets-global.website-files.com/60b0c490c031f80841d793e5/60b0c490c031f87ad9d795a6_hotel-lankaila-wellness-spa-bg__1920px-38.jpg);
 }
 .reservation__bg.is--3 {
   background-image: url(https://assets-global.website-files.com/60b0c490c031f80841d793e5/60c8632b15cbccc5b38eeb40_rezervacia-pobytu-bg1--tiny.jpg);
 }
 .reservation__bg.is--evet1 {
-  background-image: url(https://assets-global.website-files.com/60b0c490c031f80841d793e5/60b0c490c031f8b977d79423_hotel-kaskady__1920px-13.jpg);
+  background-image: url(https://assets-global.website-files.com/60b0c490c031f80841d793e5/60b0c490c031f8b977d79423_hotel-lankaila__1920px-13.jpg);
 }
 .reservation__bg.is--event2 {
   background-image: url(https://assets-global.website-files.com/60b0c490c031f80841d793e5/60b0c490c031f85210d7983c_kasakdy-promo-bg-5.jpg);
@@ -6204,7 +6204,7 @@ blockquote {
 }
 .loading__bg {
   z-index: 1;
-  background-color: #CB9833;
+  background-color: #cb9833;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -6217,7 +6217,7 @@ blockquote {
   z-index: 10;
   position: relative;
 }
-.kaskady-date--load {
+.lankaila-date--load {
   color: var(--white);
   letter-spacing: 1em;
   font-size: 0.8em;
@@ -8994,7 +8994,7 @@ blockquote {
   margin-right: auto;
   font-size: 1em;
 }
-.kaskady-inclusive {
+.lankaila-inclusive {
   color: var(--white);
   text-align: center;
   max-width: 14em;
@@ -9511,7 +9511,7 @@ blockquote {
 .c-nws__inner2.is--green {
   border-color: rgba(206, 224, 217, 0.57);
 }
-.kaskady-bg-logo {
+.lankaila-bg-logo {
   opacity: 0.05;
   object-fit: contain;
   width: 90vh;
@@ -11342,7 +11342,7 @@ blockquote {
     padding-top: 2.5em;
     padding-bottom: 2.5em;
   }
-  .kaskady-inclusive {
+  .lankaila-inclusive {
     font-size: 3.3em;
   }
   .package-screen {
@@ -11431,7 +11431,7 @@ blockquote {
   .c-nws__inner {
     margin-bottom: 8em;
   }
-  .kaskady-bg-logo {
+  .lankaila-bg-logo {
     width: 90vw;
     height: 90vw;
     margin-left: auto;
@@ -11827,10 +11827,10 @@ blockquote {
   .h-main.is--nws {
     font-size: 3em;
   }
-  .kaskady__bgs.in--events {
+  .lankaila__bgs.in--events {
     width: 100%;
   }
-  .kaskady__bg-overlay.blended.mob-hide {
+  .lankaila__bg-overlay.blended.mob-hide {
     display: none;
   }
   .logo__cols {
@@ -12310,7 +12310,7 @@ blockquote {
     position: absolute;
   }
   .bg-gradient-long-sec.mob-hide,
-  .kaskady__bg2.mob-hide {
+  .lankaila__bg2.mob-hide {
     display: none;
   }
   .room__box--ress {
@@ -12775,7 +12775,7 @@ blockquote {
     margin-bottom: 3em;
     font-size: 0.9em;
   }
-  .kaskady-inclusive {
+  .lankaila-inclusive {
     font-size: 2.3em;
   }
   .inc-inner {
@@ -12881,7 +12881,7 @@ blockquote {
   .container-nws {
     flex-wrap: wrap-reverse;
   }
-  .kaskady-bg-logo {
+  .lankaila-bg-logo {
     display: none;
   }
   .oaza-down {
@@ -13788,7 +13788,7 @@ blockquote {
   .k-accordian {
     font-size: 15px;
   }
-  .kaskady-inclusive {
+  .lankaila-inclusive {
     margin-bottom: 0.6em;
     font-size: 7.5vw;
   }
