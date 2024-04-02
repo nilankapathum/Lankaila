@@ -55284,7 +55284,7 @@ Webflow.require("ix2").init({
                   selector: ".loading",
                   selectorGuids: ["374df2a8-8beb-e3c4-bfb3-cb74841c6943"],
                 },
-                value: "none",
+                value: "flex",
               },
             },
             {
@@ -55428,7 +55428,7 @@ Webflow.require("ix2").init({
                   selector: ".loading",
                   selectorGuids: ["374df2a8-8beb-e3c4-bfb3-cb74841c6943"],
                 },
-                value: "none",
+                value: "flex",
               },
             },
           ],
