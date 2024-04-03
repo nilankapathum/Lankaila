@@ -42176,45 +42176,45 @@ Webflow.require("ix2").init({
       },
       createdOn: 1620231498993,
     },
-    "e-961": {
-      id: "e-961",
-      name: "",
-      animationType: "custom",
-      eventTypeId: "SCROLLING_IN_VIEW",
-      action: {
-        id: "",
-        actionTypeId: "GENERAL_CONTINUOUS_ACTION",
-        config: { actionListId: "a-130", affectedElements: {}, duration: 0 },
-      },
-      mediaQueries: ["main", "medium", "small", "tiny"],
-      target: {
-        selector: ".container.c-scroll-hide",
-        originalId:
-          "60b0c490c031f89087d793e7|9f0317ba-62f4-9820-8c92-599a06d4c560",
-        appliesTo: "CLASS",
-      },
-      targets: [
-        {
-          selector: ".container.c-scroll-hide",
-          originalId:
-            "60b0c490c031f89087d793e7|9f0317ba-62f4-9820-8c92-599a06d4c560",
-          appliesTo: "CLASS",
-        },
-      ],
-      config: [
-        {
-          continuousParameterGroupId: "a-130-p",
-          smoothing: 95,
-          startsEntering: false,
-          addStartOffset: false,
-          addOffsetValue: 50,
-          startsExiting: false,
-          addEndOffset: false,
-          endOffsetValue: 50,
-        },
-      ],
-      createdOn: 1620404907253,
-    },
+    // "e-961": {
+    //   id: "e-961",
+    //   name: "",
+    //   animationType: "custom",
+    //   eventTypeId: "SCROLLING_IN_VIEW",
+    //   action: {
+    //     id: "",
+    //     actionTypeId: "GENERAL_CONTINUOUS_ACTION",
+    //     config: { actionListId: "a-130", affectedElements: {}, duration: 0 },
+    //   },
+    //   mediaQueries: ["main", "medium", "small", "tiny"],
+    //   target: {
+    //     selector: ".container.c-scroll-hide",
+    //     originalId:
+    //       "60b0c490c031f89087d793e7|9f0317ba-62f4-9820-8c92-599a06d4c560",
+    //     appliesTo: "CLASS",
+    //   },
+    //   targets: [
+    //     {
+    //       selector: ".container.c-scroll-hide",
+    //       originalId:
+    //         "60b0c490c031f89087d793e7|9f0317ba-62f4-9820-8c92-599a06d4c560",
+    //       appliesTo: "CLASS",
+    //     },
+    //   ],
+    //   config: [
+    //     {
+    //       continuousParameterGroupId: "a-130-p",
+    //       smoothing: 95,
+    //       startsEntering: false,
+    //       addStartOffset: false,
+    //       addOffsetValue: 50,
+    //       startsExiting: false,
+    //       addEndOffset: false,
+    //       endOffsetValue: 50,
+    //     },
+    //   ],
+    //   createdOn: 1620404907253,
+    // },
     "e-962": {
       id: "e-962",
       name: "",
@@ -55287,21 +55287,21 @@ Webflow.require("ix2").init({
                 value: "flex",
               },
             },
-            {
-              id: "a-159-n-26",
-              actionTypeId: "STYLE_OPACITY",
-              config: {
-                delay: 0,
-                easing: "",
-                duration: 500,
-                target: {
-                  selector: ".circle-info",
-                  selectorGuids: ["4d1000c3-f697-1699-d0bd-2730c58d3812"],
-                },
-                value: 0,
-                unit: "",
-              },
-            },
+            // {
+            //   id: "a-159-n-26",
+            //   actionTypeId: "STYLE_OPACITY",
+            //   config: {
+            //     delay: 0,
+            //     easing: "",
+            //     duration: 500,
+            //     target: {
+            //       selector: ".circle-info",
+            //       selectorGuids: ["4d1000c3-f697-1699-d0bd-2730c58d3812"],
+            //     },
+            //     value: 0,
+            //     unit: "",
+            //   },
+            // },
             {
               id: "a-159-n-22",
               actionTypeId: "STYLE_OPACITY",
@@ -55317,21 +55317,21 @@ Webflow.require("ix2").init({
                 unit: "",
               },
             },
-            {
-              id: "a-159-n-18",
-              actionTypeId: "STYLE_OPACITY",
-              config: {
-                delay: 0,
-                easing: "",
-                duration: 500,
-                target: {
-                  selector: ".h-toptitle2",
-                  selectorGuids: ["390ede02-d139-9e3e-0360-68795073b937"],
-                },
-                value: 0,
-                unit: "",
-              },
-            },
+            // {
+            //   id: "a-159-n-18",
+            //   actionTypeId: "STYLE_OPACITY",
+            //   config: {
+            //     delay: 0,
+            //     easing: "",
+            //     duration: 500,
+            //     target: {
+            //       selector: ".h-toptitle2",
+            //       selectorGuids: ["390ede02-d139-9e3e-0360-68795073b937"],
+            //     },
+            //     value: 0,
+            //     unit: "",
+            //   },
+            // },
             {
               id: "a-159-n-8",
               actionTypeId: "TRANSFORM_MOVE",
@@ -55398,21 +55398,21 @@ Webflow.require("ix2").init({
                 zUnit: "PX",
               },
             },
-            {
-              id: "a-159-n-20",
-              actionTypeId: "STYLE_OPACITY",
-              config: {
-                delay: 0,
-                easing: "",
-                duration: 500,
-                target: {
-                  selector: ".h-subtitle",
-                  selectorGuids: ["f45a0294-b83c-8de8-de8a-79ac2467bf1c"],
-                },
-                value: 0,
-                unit: "",
-              },
-            },
+            // {
+            //   id: "a-159-n-20",
+            //   actionTypeId: "STYLE_OPACITY",
+            //   config: {
+            //     delay: 0,
+            //     easing: "",
+            //     duration: 500,
+            //     target: {
+            //       selector: ".h-subtitle",
+            //       selectorGuids: ["f45a0294-b83c-8de8-de8a-79ac2467bf1c"],
+            //     },
+            //     value: 0,
+            //     unit: "",
+            //   },
+            // },
           ],
         },
         {
@@ -55607,36 +55607,36 @@ Webflow.require("ix2").init({
         },
         {
           actionItems: [
-            {
-              id: "a-159-n-19",
-              actionTypeId: "STYLE_OPACITY",
-              config: {
-                delay: 0,
-                easing: "easeOut",
-                duration: 500,
-                target: {
-                  selector: ".h-toptitle2",
-                  selectorGuids: ["390ede02-d139-9e3e-0360-68795073b937"],
-                },
-                value: 1,
-                unit: "",
-              },
-            },
-            {
-              id: "a-159-n-21",
-              actionTypeId: "STYLE_OPACITY",
-              config: {
-                delay: 300,
-                easing: "easeOut",
-                duration: 500,
-                target: {
-                  selector: ".h-subtitle",
-                  selectorGuids: ["f45a0294-b83c-8de8-de8a-79ac2467bf1c"],
-                },
-                value: 1,
-                unit: "",
-              },
-            },
+            // {
+            //   id: "a-159-n-19",
+            //   actionTypeId: "STYLE_OPACITY",
+            //   config: {
+            //     delay: 0,
+            //     easing: "easeOut",
+            //     duration: 500,
+            //     target: {
+            //       selector: ".h-toptitle2",
+            //       selectorGuids: ["390ede02-d139-9e3e-0360-68795073b937"],
+            //     },
+            //     value: 1,
+            //     unit: "",
+            //   },
+            // },
+            // {
+            //   id: "a-159-n-21",
+            //   actionTypeId: "STYLE_OPACITY",
+            //   config: {
+            //     delay: 300,
+            //     easing: "easeOut",
+            //     duration: 500,
+            //     target: {
+            //       selector: ".h-subtitle",
+            //       selectorGuids: ["f45a0294-b83c-8de8-de8a-79ac2467bf1c"],
+            //     },
+            //     value: 1,
+            //     unit: "",
+            //   },
+            // },
             {
               id: "a-159-n-23",
               actionTypeId: "STYLE_OPACITY",
@@ -55652,21 +55652,21 @@ Webflow.require("ix2").init({
                 unit: "",
               },
             },
-            {
-              id: "a-159-n-27",
-              actionTypeId: "STYLE_OPACITY",
-              config: {
-                delay: 300,
-                easing: "easeOut",
-                duration: 500,
-                target: {
-                  selector: ".circle-info",
-                  selectorGuids: ["4d1000c3-f697-1699-d0bd-2730c58d3812"],
-                },
-                value: 1,
-                unit: "",
-              },
-            },
+            // {
+            //   id: "a-159-n-27",
+            //   actionTypeId: "STYLE_OPACITY",
+            //   config: {
+            //     delay: 300,
+            //     easing: "easeOut",
+            //     duration: 500,
+            //     target: {
+            //       selector: ".circle-info",
+            //       selectorGuids: ["4d1000c3-f697-1699-d0bd-2730c58d3812"],
+            //     },
+            //     value: 1,
+            //     unit: "",
+            //   },
+            // },
           ],
         },
         {
@@ -56567,111 +56567,111 @@ Webflow.require("ix2").init({
       useFirstGroupAsInitialState: false,
       createdOn: 1620225343022,
     },
-    "a-130": {
-      id: "a-130",
-      title: "[SLIDER] title-hiding",
-      continuousParameterGroups: [
-        {
-          id: "a-130-p",
-          type: "SCROLL_PROGRESS",
-          parameterLabel: "Scroll",
-          continuousActionGroups: [
-            {
-              keyframe: 50,
-              actionItems: [
-                {
-                  id: "a-130-n-3",
-                  actionTypeId: "STYLE_OPACITY",
-                  config: {
-                    delay: 0,
-                    easing: "",
-                    duration: 500,
-                    target: {
-                      selector: ".container.c-scroll-hide",
-                      selectorGuids: [
-                        "5d638b4e-9ba2-89c0-7886-74059f7cfd26",
-                        "1f45f478-bfa8-bcdc-4a55-7e105d627f24",
-                      ],
-                    },
-                    value: 1,
-                    unit: "",
-                  },
-                },
-                {
-                  id: "a-130-n",
-                  actionTypeId: "TRANSFORM_MOVE",
-                  config: {
-                    delay: 0,
-                    easing: "",
-                    duration: 500,
-                    target: {
-                      selector: ".container.c-scroll-hide",
-                      selectorGuids: [
-                        "5d638b4e-9ba2-89c0-7886-74059f7cfd26",
-                        "1f45f478-bfa8-bcdc-4a55-7e105d627f24",
-                      ],
-                    },
-                    yValue: 0,
-                    xUnit: "PX",
-                    yUnit: "vh",
-                    zUnit: "PX",
-                  },
-                },
-              ],
-            },
-            {
-              keyframe: 80,
-              actionItems: [
-                {
-                  id: "a-130-n-4",
-                  actionTypeId: "STYLE_OPACITY",
-                  config: {
-                    delay: 0,
-                    easing: "easeOut",
-                    duration: 500,
-                    target: {
-                      selector: ".container.c-scroll-hide",
-                      selectorGuids: [
-                        "5d638b4e-9ba2-89c0-7886-74059f7cfd26",
-                        "1f45f478-bfa8-bcdc-4a55-7e105d627f24",
-                      ],
-                    },
-                    value: 0,
-                    unit: "",
-                  },
-                },
-              ],
-            },
-            {
-              keyframe: 90,
-              actionItems: [
-                {
-                  id: "a-130-n-2",
-                  actionTypeId: "TRANSFORM_MOVE",
-                  config: {
-                    delay: 0,
-                    easing: "easeOut",
-                    duration: 500,
-                    target: {
-                      selector: ".container.c-scroll-hide",
-                      selectorGuids: [
-                        "5d638b4e-9ba2-89c0-7886-74059f7cfd26",
-                        "1f45f478-bfa8-bcdc-4a55-7e105d627f24",
-                      ],
-                    },
-                    yValue: -10,
-                    xUnit: "PX",
-                    yUnit: "vh",
-                    zUnit: "PX",
-                  },
-                },
-              ],
-            },
-          ],
-        },
-      ],
-      createdOn: 1613855756472,
-    },
+    // "a-130": {
+    //   id: "a-130",
+    //   title: "[SLIDER] title-hiding",
+    //   continuousParameterGroups: [
+    //     {
+    //       id: "a-130-p",
+    //       type: "SCROLL_PROGRESS",
+    //       parameterLabel: "Scroll",
+    //       continuousActionGroups: [
+    //         {
+    //           keyframe: 50,
+    //           actionItems: [
+    //             {
+    //               id: "a-130-n-3",
+    //               actionTypeId: "STYLE_OPACITY",
+    //               config: {
+    //                 delay: 0,
+    //                 easing: "",
+    //                 duration: 500,
+    //                 target: {
+    //                   selector: ".container.c-scroll-hide",
+    //                   selectorGuids: [
+    //                     "5d638b4e-9ba2-89c0-7886-74059f7cfd26",
+    //                     "1f45f478-bfa8-bcdc-4a55-7e105d627f24",
+    //                   ],
+    //                 },
+    //                 value: 1,
+    //                 unit: "",
+    //               },
+    //             },
+    //             {
+    //               id: "a-130-n",
+    //               actionTypeId: "TRANSFORM_MOVE",
+    //               config: {
+    //                 delay: 0,
+    //                 easing: "",
+    //                 duration: 500,
+    //                 target: {
+    //                   selector: ".container.c-scroll-hide",
+    //                   selectorGuids: [
+    //                     "5d638b4e-9ba2-89c0-7886-74059f7cfd26",
+    //                     "1f45f478-bfa8-bcdc-4a55-7e105d627f24",
+    //                   ],
+    //                 },
+    //                 yValue: 0,
+    //                 xUnit: "PX",
+    //                 yUnit: "vh",
+    //                 zUnit: "PX",
+    //               },
+    //             },
+    //           ],
+    //         },
+    //         {
+    //           keyframe: 80,
+    //           actionItems: [
+    //             {
+    //               id: "a-130-n-4",
+    //               actionTypeId: "STYLE_OPACITY",
+    //               config: {
+    //                 delay: 0,
+    //                 easing: "easeOut",
+    //                 duration: 500,
+    //                 target: {
+    //                   selector: ".container.c-scroll-hide",
+    //                   selectorGuids: [
+    //                     "5d638b4e-9ba2-89c0-7886-74059f7cfd26",
+    //                     "1f45f478-bfa8-bcdc-4a55-7e105d627f24",
+    //                   ],
+    //                 },
+    //                 value: 0,
+    //                 unit: "",
+    //               },
+    //             },
+    //           ],
+    //         },
+    //         {
+    //           keyframe: 90,
+    //           actionItems: [
+    //             {
+    //               id: "a-130-n-2",
+    //               actionTypeId: "TRANSFORM_MOVE",
+    //               config: {
+    //                 delay: 0,
+    //                 easing: "easeOut",
+    //                 duration: 500,
+    //                 target: {
+    //                   selector: ".container.c-scroll-hide",
+    //                   selectorGuids: [
+    //                     "5d638b4e-9ba2-89c0-7886-74059f7cfd26",
+    //                     "1f45f478-bfa8-bcdc-4a55-7e105d627f24",
+    //                   ],
+    //                 },
+    //                 yValue: -10,
+    //                 xUnit: "PX",
+    //                 yUnit: "vh",
+    //                 zUnit: "PX",
+    //               },
+    //             },
+    //           ],
+    //         },
+    //       ],
+    //     },
+    //   ],
+    //   createdOn: 1613855756472,
+    // },
     "a-214": {
       id: "a-214",
       title: "page-scrolled--up",
