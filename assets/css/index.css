@@ -8310,7 +8310,7 @@ blockquote {
 .drag-slider-progress {
   z-index: 20;
   transform-origin: 0%;
-  background-color: #c3bdb7;
+
   justify-content: flex-start;
   align-items: stretch;
   width: 80vw;
