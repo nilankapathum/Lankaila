@@ -25974,7 +25974,7 @@ __p+='`),
     zS = ve(() => {
       "use strict";
       (t6 = "|"),
-        (r6 = "data-wf-page"),
+        (r6 = "data-page"),
         (n6 = "w-mod-js"),
         (i6 = "w-mod-ix"),
         (a6 = ".w-dyn-item"),
@@ -31697,7 +31697,7 @@ __p+='`),
         var p = d.form,
           m = {
             name: p.attr("data-name") || p.attr("name") || "Untitled Form",
-            pageId: p.attr("data-wf-page-id") || "",
+            pageId: p.attr("v-id") || "",
             elementId: p.attr("data-wf-element-id") || "",
             source: t.href,
             test: r.env(),
@@ -34406,13 +34406,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "60b0c490c031f89087d793e7",
+        id: "lankaila2024",
         appliesTo: "PAGE",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7",
+          id: "lankaila2024",
           appliesTo: "PAGE",
           styleBlockIds: [],
         },
@@ -34440,13 +34440,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "60b0c490c031f89087d793e7",
+        id: "lankaila2024",
         appliesTo: "PAGE",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7",
+          id: "lankaila2024",
           appliesTo: "PAGE",
           styleBlockIds: [],
         },
@@ -34483,13 +34483,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "60b0c490c031f89087d793e7|e72775ed-8d97-9256-6e5c-fb9bceeccbe7",
+        id: "lankaila2024|e72775ed-8d97-9256-6e5c-fb9bceeccbe7",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|a44d0664-c223-8522-6e9b-42198b570d9b",
+          id: "lankaila2024|a44d0664-c223-8522-6e9b-42198b570d9b",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -34534,13 +34534,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "60b0c490c031f89087d793e7|a44d0664-c223-8522-6e9b-42198b570d9c",
+        id: "lankaila2024|a44d0664-c223-8522-6e9b-42198b570d9c",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|a44d0664-c223-8522-6e9b-42198b570d9c",
+          id: "lankaila2024|a44d0664-c223-8522-6e9b-42198b570d9c",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -34576,13 +34576,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "60b0c490c031f89087d793e7|a44d0664-c223-8522-6e9b-42198b570d9c",
+        id: "lankaila2024|a44d0664-c223-8522-6e9b-42198b570d9c",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|a44d0664-c223-8522-6e9b-42198b570d9c",
+          id: "lankaila2024|a44d0664-c223-8522-6e9b-42198b570d9c",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -34618,13 +34618,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "60b0c490c031f89087d793e7|44bfd5c1-759c-8a31-ee41-68ad9cf77772",
+        id: "lankaila2024|44bfd5c1-759c-8a31-ee41-68ad9cf77772",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|44bfd5c1-759c-8a31-ee41-68ad9cf77772",
+          id: "lankaila2024|44bfd5c1-759c-8a31-ee41-68ad9cf77772",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -34660,13 +34660,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "60b0c490c031f89087d793e7|44bfd5c1-759c-8a31-ee41-68ad9cf77772",
+        id: "lankaila2024|44bfd5c1-759c-8a31-ee41-68ad9cf77772",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|44bfd5c1-759c-8a31-ee41-68ad9cf77772",
+          id: "lankaila2024|44bfd5c1-759c-8a31-ee41-68ad9cf77772",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -34702,13 +34702,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "60b0c490c031f89087d793e7|ea9ed3fe-0a27-4373-6695-a47c39cceaee",
+        id: "lankaila2024|ea9ed3fe-0a27-4373-6695-a47c39cceaee",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|ea9ed3fe-0a27-4373-6695-a47c39cceaee",
+          id: "lankaila2024|ea9ed3fe-0a27-4373-6695-a47c39cceaee",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -34744,13 +34744,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "60b0c490c031f89087d793e7|ea9ed3fe-0a27-4373-6695-a47c39cceaee",
+        id: "lankaila2024|ea9ed3fe-0a27-4373-6695-a47c39cceaee",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|ea9ed3fe-0a27-4373-6695-a47c39cceaee",
+          id: "lankaila2024|ea9ed3fe-0a27-4373-6695-a47c39cceaee",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -34788,14 +34788,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".product__col",
         originalId:
-          "60b0c490c031f89087d793e7|017afa7b-8481-0142-d86c-55852078506b",
+          "lankaila2024|017afa7b-8481-0142-d86c-55852078506b",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".product__col",
           originalId:
-            "60b0c490c031f89087d793e7|017afa7b-8481-0142-d86c-55852078506b",
+            "lankaila2024|017afa7b-8481-0142-d86c-55852078506b",
           appliesTo: "CLASS",
         },
       ],
@@ -34832,14 +34832,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".product__col",
         originalId:
-          "60b0c490c031f89087d793e7|017afa7b-8481-0142-d86c-55852078506b",
+          "lankaila2024|017afa7b-8481-0142-d86c-55852078506b",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".product__col",
           originalId:
-            "60b0c490c031f89087d793e7|017afa7b-8481-0142-d86c-55852078506b",
+            "lankaila2024|017afa7b-8481-0142-d86c-55852078506b",
           appliesTo: "CLASS",
         },
       ],
@@ -34866,13 +34866,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium"],
       target: {
-        id: "60b0c490c031f89087d793e7|857e14b7-2a9d-03ae-3034-4a652aed17a4",
+        id: "lankaila2024|857e14b7-2a9d-03ae-3034-4a652aed17a4",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|857e14b7-2a9d-03ae-3034-4a652aed17a4",
+          id: "lankaila2024|857e14b7-2a9d-03ae-3034-4a652aed17a4",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -34913,14 +34913,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".resort__btn",
         originalId:
-          "60b0c490c031f89087d793e7|f35c155b-c059-c762-3a9a-6939417a5de8",
+          "lankaila2024|f35c155b-c059-c762-3a9a-6939417a5de8",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".resort__btn",
           originalId:
-            "60b0c490c031f89087d793e7|f35c155b-c059-c762-3a9a-6939417a5de8",
+            "lankaila2024|f35c155b-c059-c762-3a9a-6939417a5de8",
           appliesTo: "CLASS",
         },
       ],
@@ -34957,14 +34957,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".resort__btn",
         originalId:
-          "60b0c490c031f89087d793e7|f35c155b-c059-c762-3a9a-6939417a5de8",
+          "lankaila2024|f35c155b-c059-c762-3a9a-6939417a5de8",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".resort__btn",
           originalId:
-            "60b0c490c031f89087d793e7|f35c155b-c059-c762-3a9a-6939417a5de8",
+            "lankaila2024|f35c155b-c059-c762-3a9a-6939417a5de8",
           appliesTo: "CLASS",
         },
       ],
@@ -35244,14 +35244,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".resort__btn",
         originalId:
-          "60b0c490c031f89087d793e7|1a2e66bf-b95b-a03b-623e-dcfea91c75e0",
+          "lankaila2024|1a2e66bf-b95b-a03b-623e-dcfea91c75e0",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".resort__btn",
           originalId:
-            "60b0c490c031f89087d793e7|1a2e66bf-b95b-a03b-623e-dcfea91c75e0",
+            "lankaila2024|1a2e66bf-b95b-a03b-623e-dcfea91c75e0",
           appliesTo: "CLASS",
         },
       ],
@@ -35340,14 +35340,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".m__c-item",
         originalId:
-          "60b0c490c031f89087d793e7|6dd92f1e-c035-1811-5d90-daffe7e60305",
+          "lankaila2024|6dd92f1e-c035-1811-5d90-daffe7e60305",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".m__c-item",
           originalId:
-            "60b0c490c031f89087d793e7|6dd92f1e-c035-1811-5d90-daffe7e60305",
+            "lankaila2024|6dd92f1e-c035-1811-5d90-daffe7e60305",
           appliesTo: "CLASS",
         },
       ],
@@ -35384,14 +35384,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".m__c-item",
         originalId:
-          "60b0c490c031f89087d793e7|6dd92f1e-c035-1811-5d90-daffe7e60305",
+          "lankaila2024|6dd92f1e-c035-1811-5d90-daffe7e60305",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".m__c-item",
           originalId:
-            "60b0c490c031f89087d793e7|6dd92f1e-c035-1811-5d90-daffe7e60305",
+            "lankaila2024|6dd92f1e-c035-1811-5d90-daffe7e60305",
           appliesTo: "CLASS",
         },
       ],
@@ -35428,14 +35428,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".menu__link-block",
         originalId:
-          "60b0c490c031f89087d793e7|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59ff",
+          "lankaila2024|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59ff",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".menu__link-block",
           originalId:
-            "60b0c490c031f89087d793e7|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59ff",
+            "lankaila2024|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59ff",
           appliesTo: "CLASS",
         },
       ],
@@ -35472,14 +35472,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".menu__link-block",
         originalId:
-          "60b0c490c031f89087d793e7|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59ff",
+          "lankaila2024|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59ff",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".menu__link-block",
           originalId:
-            "60b0c490c031f89087d793e7|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59ff",
+            "lankaila2024|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59ff",
           appliesTo: "CLASS",
         },
       ],
@@ -35516,14 +35516,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".menu__link-block",
         originalId:
-          "60b0c490c031f89087d793e7|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59fc",
+          "lankaila2024|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59fc",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".menu__link-block",
           originalId:
-            "60b0c490c031f89087d793e7|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59fc",
+            "lankaila2024|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59fc",
           appliesTo: "CLASS",
         },
       ],
@@ -35560,14 +35560,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".menu__link-block",
         originalId:
-          "60b0c490c031f89087d793e7|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59fc",
+          "lankaila2024|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59fc",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".menu__link-block",
           originalId:
-            "60b0c490c031f89087d793e7|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59fc",
+            "lankaila2024|914ec7fd-2c1d-c8e3-4f9e-5a79c6cc59fc",
           appliesTo: "CLASS",
         },
       ],
@@ -35604,14 +35604,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".nav__menu",
         originalId:
-          "60b0c490c031f89087d793e7|f06473ed-71c1-9bfc-632a-5ca4ba7405f0",
+          "lankaila2024|f06473ed-71c1-9bfc-632a-5ca4ba7405f0",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".nav__menu",
           originalId:
-            "60b0c490c031f89087d793e7|f06473ed-71c1-9bfc-632a-5ca4ba7405f0",
+            "lankaila2024|f06473ed-71c1-9bfc-632a-5ca4ba7405f0",
           appliesTo: "CLASS",
         },
       ],
@@ -35648,14 +35648,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".m__c-item.is--main",
         originalId:
-          "60b0c490c031f89087d793e7|6dd92f1e-c035-1811-5d90-daffe7e60302",
+          "lankaila2024|6dd92f1e-c035-1811-5d90-daffe7e60302",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".m__c-item.is--main",
           originalId:
-            "60b0c490c031f89087d793e7|6dd92f1e-c035-1811-5d90-daffe7e60302",
+            "lankaila2024|6dd92f1e-c035-1811-5d90-daffe7e60302",
           appliesTo: "CLASS",
         },
       ],
@@ -35692,14 +35692,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".m__c-item.is--main",
         originalId:
-          "60b0c490c031f89087d793e7|6dd92f1e-c035-1811-5d90-daffe7e60302",
+          "lankaila2024|6dd92f1e-c035-1811-5d90-daffe7e60302",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".m__c-item.is--main",
           originalId:
-            "60b0c490c031f89087d793e7|6dd92f1e-c035-1811-5d90-daffe7e60302",
+            "lankaila2024|6dd92f1e-c035-1811-5d90-daffe7e60302",
           appliesTo: "CLASS",
         },
       ],
@@ -35734,13 +35734,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "60b0c490c031f89087d793e7|5d54d485-b174-0765-9e56-5c7b016354d7",
+        id: "lankaila2024|5d54d485-b174-0765-9e56-5c7b016354d7",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|5d54d485-b174-0765-9e56-5c7b016354d7",
+          id: "lankaila2024|5d54d485-b174-0765-9e56-5c7b016354d7",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -35778,14 +35778,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".spa__col",
         originalId:
-          "60b0c490c031f89087d793e7|3c22fa69-f603-e72b-3f26-49c8646e2713",
+          "lankaila2024|3c22fa69-f603-e72b-3f26-49c8646e2713",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".spa__col",
           originalId:
-            "60b0c490c031f89087d793e7|3c22fa69-f603-e72b-3f26-49c8646e2713",
+            "lankaila2024|3c22fa69-f603-e72b-3f26-49c8646e2713",
           appliesTo: "CLASS",
         },
       ],
@@ -35822,14 +35822,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".spa__col",
         originalId:
-          "60b0c490c031f89087d793e7|3c22fa69-f603-e72b-3f26-49c8646e2713",
+          "lankaila2024|3c22fa69-f603-e72b-3f26-49c8646e2713",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".spa__col",
           originalId:
-            "60b0c490c031f89087d793e7|3c22fa69-f603-e72b-3f26-49c8646e2713",
+            "lankaila2024|3c22fa69-f603-e72b-3f26-49c8646e2713",
           appliesTo: "CLASS",
         },
       ],
@@ -35858,14 +35858,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".parallax-bg",
         originalId:
-          "60b0c490c031f89087d793e7|7764603b-a2c3-6b50-3d2a-5b01513617e3",
+          "lankaila2024|7764603b-a2c3-6b50-3d2a-5b01513617e3",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".parallax-bg",
           originalId:
-            "60b0c490c031f89087d793e7|7764603b-a2c3-6b50-3d2a-5b01513617e3",
+            "lankaila2024|7764603b-a2c3-6b50-3d2a-5b01513617e3",
           appliesTo: "CLASS",
         },
       ],
@@ -35895,13 +35895,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium"],
       target: {
-        id: "60b0c490c031f89087d793e7|c0589816-4ae5-acbb-03cf-6cef0449dd16",
+        id: "lankaila2024|c0589816-4ae5-acbb-03cf-6cef0449dd16",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|c0589816-4ae5-acbb-03cf-6cef0449dd16",
+          id: "lankaila2024|c0589816-4ae5-acbb-03cf-6cef0449dd16",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -35932,13 +35932,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium"],
       target: {
-        id: "60b0c490c031f89087d793e7|01ccef05-abaf-405a-3937-be25744579ac",
+        id: "lankaila2024|01ccef05-abaf-405a-3937-be25744579ac",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|01ccef05-abaf-405a-3937-be25744579ac",
+          id: "lankaila2024|01ccef05-abaf-405a-3937-be25744579ac",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -35969,13 +35969,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium"],
       target: {
-        id: "60b0c490c031f89087d793e7|10ad7808-f2ad-03e9-31ac-bd5dc8993248",
+        id: "lankaila2024|10ad7808-f2ad-03e9-31ac-bd5dc8993248",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|10ad7808-f2ad-03e9-31ac-bd5dc8993248",
+          id: "lankaila2024|10ad7808-f2ad-03e9-31ac-bd5dc8993248",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -36275,13 +36275,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "60b0c490c031f89087d793e7|5eb62a23-a100-c3da-ece9-3b2109da80b7",
+        id: "lankaila2024|5eb62a23-a100-c3da-ece9-3b2109da80b7",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|5eb62a23-a100-c3da-ece9-3b2109da80b7",
+          id: "lankaila2024|5eb62a23-a100-c3da-ece9-3b2109da80b7",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -37055,13 +37055,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium"],
       target: {
-        id: "60b0c490c031f89087d793e7|a271acb5-589f-e504-fc9b-a5a7b33543af",
+        id: "lankaila2024|a271acb5-589f-e504-fc9b-a5a7b33543af",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|a271acb5-589f-e504-fc9b-a5a7b33543af",
+          id: "lankaila2024|a271acb5-589f-e504-fc9b-a5a7b33543af",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -37097,13 +37097,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium"],
       target: {
-        id: "60b0c490c031f89087d793e7|a271acb5-589f-e504-fc9b-a5a7b33543af",
+        id: "lankaila2024|a271acb5-589f-e504-fc9b-a5a7b33543af",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|a271acb5-589f-e504-fc9b-a5a7b33543af",
+          id: "lankaila2024|a271acb5-589f-e504-fc9b-a5a7b33543af",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -37479,13 +37479,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "60b0c490c031f89087d793e7|7518a5b2-757b-6baf-3639-c24cd2d0f206",
+        id: "lankaila2024|7518a5b2-757b-6baf-3639-c24cd2d0f206",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|7518a5b2-757b-6baf-3639-c24cd2d0f206",
+          id: "lankaila2024|7518a5b2-757b-6baf-3639-c24cd2d0f206",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -37521,13 +37521,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "60b0c490c031f89087d793e7|7518a5b2-757b-6baf-3639-c24cd2d0f206",
+        id: "lankaila2024|7518a5b2-757b-6baf-3639-c24cd2d0f206",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|7518a5b2-757b-6baf-3639-c24cd2d0f206",
+          id: "lankaila2024|7518a5b2-757b-6baf-3639-c24cd2d0f206",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -41164,13 +41164,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "60b0c490c031f89087d793e7",
+        id: "lankaila2024",
         appliesTo: "PAGE",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7",
+          id: "lankaila2024",
           appliesTo: "PAGE",
           styleBlockIds: [],
         },
@@ -41201,14 +41201,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".benefits__title.is--1",
         originalId:
-          "60b0c490c031f89087d793e7|4a33add2-45c5-03cb-2b31-e0bcfb8a09b8",
+          "lankaila2024|4a33add2-45c5-03cb-2b31-e0bcfb8a09b8",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".benefits__title.is--1",
           originalId:
-            "60b0c490c031f89087d793e7|4a33add2-45c5-03cb-2b31-e0bcfb8a09b8",
+            "lankaila2024|4a33add2-45c5-03cb-2b31-e0bcfb8a09b8",
           appliesTo: "CLASS",
         },
       ],
@@ -41238,14 +41238,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".benefits__title.is--2",
         originalId:
-          "60b0c490c031f89087d793e7|ab5e0ed3-d4e7-86fc-a328-4d7aed34703e",
+          "lankaila2024|ab5e0ed3-d4e7-86fc-a328-4d7aed34703e",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".benefits__title.is--2",
           originalId:
-            "60b0c490c031f89087d793e7|ab5e0ed3-d4e7-86fc-a328-4d7aed34703e",
+            "lankaila2024|ab5e0ed3-d4e7-86fc-a328-4d7aed34703e",
           appliesTo: "CLASS",
         },
       ],
@@ -41275,14 +41275,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".benefits__title.is--3",
         originalId:
-          "60b0c490c031f89087d793e7|796a511b-06ea-f855-e7ee-7626f59323de",
+          "lankaila2024|796a511b-06ea-f855-e7ee-7626f59323de",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".benefits__title.is--3",
           originalId:
-            "60b0c490c031f89087d793e7|796a511b-06ea-f855-e7ee-7626f59323de",
+            "lankaila2024|796a511b-06ea-f855-e7ee-7626f59323de",
           appliesTo: "CLASS",
         },
       ],
@@ -41312,14 +41312,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".benefits__title.is--4",
         originalId:
-          "60b0c490c031f89087d793e7|db24e155-6001-10d6-8e31-7a61a2f8cff3",
+          "lankaila2024|db24e155-6001-10d6-8e31-7a61a2f8cff3",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".benefits__title.is--4",
           originalId:
-            "60b0c490c031f89087d793e7|db24e155-6001-10d6-8e31-7a61a2f8cff3",
+            "lankaila2024|db24e155-6001-10d6-8e31-7a61a2f8cff3",
           appliesTo: "CLASS",
         },
       ],
@@ -41349,14 +41349,14 @@ Webflow.require("ix2").init({
       target: {
         selector: ".benefits__title.is--5",
         originalId:
-          "60b0c490c031f89087d793e7|bd4fbd55-4d7a-8032-914b-6cc3815c66a2",
+          "lankaila2024|bd4fbd55-4d7a-8032-914b-6cc3815c66a2",
         appliesTo: "CLASS",
       },
       targets: [
         {
           selector: ".benefits__title.is--5",
           originalId:
-            "60b0c490c031f89087d793e7|bd4fbd55-4d7a-8032-914b-6cc3815c66a2",
+            "lankaila2024|bd4fbd55-4d7a-8032-914b-6cc3815c66a2",
           appliesTo: "CLASS",
         },
       ],
@@ -41639,13 +41639,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main"],
       target: {
-        id: "60b0c490c031f89087d793e7",
+        id: "lankaila2024",
         appliesTo: "PAGE",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7",
+          id: "lankaila2024",
           appliesTo: "PAGE",
           styleBlockIds: [],
         },
@@ -42190,14 +42190,14 @@ Webflow.require("ix2").init({
     //   target: {
     //     selector: ".container.c-scroll-hide",
     //     originalId:
-    //       "60b0c490c031f89087d793e7|9f0317ba-62f4-9820-8c92-599a06d4c560",
+    //       "lankaila2024|9f0317ba-62f4-9820-8c92-599a06d4c560",
     //     appliesTo: "CLASS",
     //   },
     //   targets: [
     //     {
     //       selector: ".container.c-scroll-hide",
     //       originalId:
-    //         "60b0c490c031f89087d793e7|9f0317ba-62f4-9820-8c92-599a06d4c560",
+    //         "lankaila2024|9f0317ba-62f4-9820-8c92-599a06d4c560",
     //       appliesTo: "CLASS",
     //     },
     //   ],
@@ -42487,13 +42487,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "60b0c490c031f89087d793e7",
+        id: "lankaila2024",
         appliesTo: "PAGE",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7",
+          id: "lankaila2024",
           appliesTo: "PAGE",
           styleBlockIds: [],
         },
@@ -42529,13 +42529,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "60b0c490c031f89087d793e7",
+        id: "lankaila2024",
         appliesTo: "PAGE",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7",
+          id: "lankaila2024",
           appliesTo: "PAGE",
           styleBlockIds: [],
         },
@@ -47550,13 +47550,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium"],
       target: {
-        id: "60b0c490c031f89087d793e7|659cbdb3-8c2f-91eb-1322-6904fbd7e031",
+        id: "lankaila2024|659cbdb3-8c2f-91eb-1322-6904fbd7e031",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|659cbdb3-8c2f-91eb-1322-6904fbd7e031",
+          id: "lankaila2024|659cbdb3-8c2f-91eb-1322-6904fbd7e031",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -47847,13 +47847,13 @@ Webflow.require("ix2").init({
       },
       mediaQueries: ["main", "medium", "small", "tiny"],
       target: {
-        id: "60b0c490c031f89087d793e7|d362fda7-c904-2416-0840-745939982949",
+        id: "lankaila2024|d362fda7-c904-2416-0840-745939982949",
         appliesTo: "ELEMENT",
         styleBlockIds: [],
       },
       targets: [
         {
-          id: "60b0c490c031f89087d793e7|d362fda7-c904-2416-0840-745939982949",
+          id: "lankaila2024|d362fda7-c904-2416-0840-745939982949",
           appliesTo: "ELEMENT",
           styleBlockIds: [],
         },
@@ -52521,7 +52521,7 @@ Webflow.require("ix2").init({
                     duration: 500,
                     target: {
                       useEventTarget: true,
-                      id: "60b0c490c031f89087d793e7|7764603b-a2c3-6b50-3d2a-5b01513617e3",
+                      id: "lankaila2024|7764603b-a2c3-6b50-3d2a-5b01513617e3",
                     },
                     yValue: 8,
                     xUnit: "PX",
@@ -52543,7 +52543,7 @@ Webflow.require("ix2").init({
                     duration: 500,
                     target: {
                       useEventTarget: true,
-                      id: "60b0c490c031f89087d793e7|7764603b-a2c3-6b50-3d2a-5b01513617e3",
+                      id: "lankaila2024|7764603b-a2c3-6b50-3d2a-5b01513617e3",
                     },
                     yValue: -8,
                     xUnit: "PX",
@@ -54299,7 +54299,7 @@ Webflow.require("ix2").init({
                     duration: 500,
                     target: {
                       useEventTarget: true,
-                      id: "60b0c490c031f89087d793e7|7764603b-a2c3-6b50-3d2a-5b01513617e3",
+                      id: "lankaila2024|7764603b-a2c3-6b50-3d2a-5b01513617e3",
                     },
                     yValue: 12,
                     xUnit: "PX",
@@ -54321,7 +54321,7 @@ Webflow.require("ix2").init({
                     duration: 500,
                     target: {
                       useEventTarget: true,
-                      id: "60b0c490c031f89087d793e7|7764603b-a2c3-6b50-3d2a-5b01513617e3",
+                      id: "lankaila2024|7764603b-a2c3-6b50-3d2a-5b01513617e3",
                     },
                     yValue: -12,
                     xUnit: "PX",
